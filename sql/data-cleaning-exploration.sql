@@ -1,5 +1,5 @@
 -- DATA CLEANING & EXPLORATION
--- Project: Stratex Commerce | E-Commerce BI
+-- Project: Stratex Commerce | Customer Behaviour & RFM Segmentation Analysis
 -- Tool: SQLite / SQLiteStudio
 -- Tables: customers, products, transactions
 
