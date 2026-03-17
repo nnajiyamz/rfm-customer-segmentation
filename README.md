@@ -263,3 +263,39 @@ Each customer is scored from 1–5 across three dimensions:
   - Introduce a targeted incentives to increase repeat purchasing
 
 ---
+
+## Limitations
+
+### Data Scope
+- Revenue metrics are based on **completed transactions only**, excluding cancelled, refunded, and pending orders
+- The dataset covers **2023-2024 only**, and does not reflect full customer lifetime behaviour (some customers registered as early as 20220)
+- The provided `lifetime_value` column was excluded as it does not match actual transaction totals, indicating it is a synthetic value
+- Due to limited historical data, **CLV cannot be calculated**, so RFM and revenue-based metrics are used to estimate customer value
+
+### Customer Coverage
+- **270 out of 10,000 customers** were excluded from the RFM analysis due to no completed transactions:
+  - 59 never attempted a purchase
+  - 211 had only unsuccessful orders
+- RFM analysis focuses on customers with at least one completed purchase only
+
+### RFM Methodology
+- Recency is calculated using a **year-end reference point** for consistent comparison:
+  - 2023 recency: days until 2024-01-01
+  - 2024 recency: days until 2025-01-01
+- Scoring thresholds are **data-driven**, based on actual distribution rather than standard benchmarks
+- RFM reflects a **year-end behavioural snapshot**, not real time behaviour
+- The `is_churned` field was excluded due to inconsistencies, therefore **RFM is used as the primary indicator of churn risk
+---
+
+## Suggested Further Analysis
+
+Several areas could be explored further to deepen the analysis:
+
+### Order failure analysis
+  - Investigate patterns among the 211 customers with only unsuccessful orders to identify whether failures are driven by payment, logistics, or product-related issues
+### Excluded customer profiling
+- Analyse the 270 excluded customers across attributes such as `segment`, `country`, `age`, `email_opt_in`, and `has_app` to understand potential barriers to first purchase
+### Conversion drivers
+- Analyse whether `has_app` usage or `email_opt_in` is associated with higher first-purchase conversion rates
+### Onboarding & engagement trends
+- Investigate the increase in never-attempted signups from mid-2023 onward to identify potential onboarding or engagement issues
