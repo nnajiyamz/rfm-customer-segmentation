@@ -106,3 +106,19 @@ Customer segmentation was performed using Recency, Frequency, and Monetary (RFM)
 - Exported customer-level RFM dataset (`rfm_segments.csv`) to Power BI for visualization
 
 [`rfm-analysis.sql`](https://github.com/nnajiyamz/rfm-customer-segmentation/blob/a6f58458b3429882a4e91e7d583cff976bae8803/sql/rfm-analysis.sql)
+
+---
+
+## Power BI Dashboard
+
+<h3 align="center">Customer & Market Overview</h3>
+<p align="center">
+  <img src="https://github.com/nnajiyamz/rfm-customer-segmentation/blob/6ceb3a2aefd127e2651d1a4affe685979fe69d27/images/customer-and-market-overview-dashboard.png" height="1800" width="1800">
+</p>
+
+<h3 align="center">RFM Analysis</h3>
+<p align="center">
+  <img src="https://github.com/nnajiyamz/rfm-customer-segmentation/blob/6ceb3a2aefd127e2651d1a4affe685979fe69d27/images/rfm-analysis-dashboard.png" height="1800" width="1800">
+</p>
+
+---
