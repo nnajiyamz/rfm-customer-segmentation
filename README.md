@@ -291,11 +291,14 @@ Each customer is scored from 1–5 across three dimensions:
 
 Several areas could be explored further to deepen the analysis:
 
-### Order failure analysis
+### Order Failure Analysis
   - Investigate patterns among the 211 customers with only unsuccessful orders to identify whether failures are driven by payment, logistics, or product-related issues
-### Excluded customer profiling
+
+### Excluded Customer Profiling
 - Analyse the 270 excluded customers across attributes such as `segment`, `country`, `age`, `email_opt_in`, and `has_app` to understand potential barriers to first purchase
-### Conversion drivers
+
+### Conversion Drivers
 - Analyse whether `has_app` usage or `email_opt_in` is associated with higher first-purchase conversion rates
-### Onboarding & engagement trends
+
+### Onboarding & Engagement Trends
 - Investigate the increase in never-attempted signups from mid-2023 onward to identify potential onboarding or engagement issues
