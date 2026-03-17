@@ -232,14 +232,12 @@ Each customer is scored from 1–5 across three dimensions:
 ### Seasonal Strategy
 - **February campaign**
   - Launch a targeted campaign to stimulate demand and make use of lower competition during the off-peak period
-- **Q4 marketing campaigns**
-  - Launch earlier from late October, to get ahead of peak competition and capture demand early
-  - Focus on increasing order value through bundles, gift sets, and upselling strategies, rather than relying solely on higher traffic
-
-### Protecting Mid-Year Sales
 - **Q2–Q3 spend incentives**
   - Introduce minimum spend promotions, product bundles, or cross-selling campaigns
   - Aim to slow down the decline in order values
+- **Q4 marketing campaigns**
+  - Launch earlier from late October, to get ahead of peak competition and capture demand early
+  - Focus on increasing order value through bundles, gift sets, and upselling strategies, rather than relying solely on higher traffic
 
 ### International Market Expansion
 - **Japan, UK, and France**
