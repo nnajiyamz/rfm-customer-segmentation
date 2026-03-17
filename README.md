@@ -282,7 +282,7 @@ Each customer is scored from 1–5 across three dimensions:
   - 2024 recency: days until 2025-01-01
 - Scoring thresholds are **data-driven**, based on actual distribution rather than standard benchmarks
 - RFM reflects a **year-end behavioural snapshot**, not real time behaviour
-- The `is_churned` field was excluded due to inconsistencies, therefore **RFM is used as the primary indicator of churn risk
+- The `is_churned` field was excluded due to inconsistencies, therefore **RFM is used as the primary indicator** of churn risk
 ---
 
 ## Suggested Further Analysis
