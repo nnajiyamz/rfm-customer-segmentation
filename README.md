@@ -123,7 +123,7 @@ Customer segmentation was performed using Recency, Frequency, and Monetary (RFM)
 
 ---
 
-## Key Business Insights
+## Business Insights
 
 ### Revenue Overview
 
@@ -214,6 +214,17 @@ Each customer is scored from 1–5 across three dimensions:
 - **Potential Loyalists and Promising customers**
   - Showed early engagement but lower spending
   - Present an opportunity to upgrade them into higher-value customers
+
+---
+
+## Business Takeaways
+
+- Revenue is stable but shows limited growth and **early signs of slowdown**
+- Performance is **highly dependent on Q4**, with declining order values in mid-year periods
+- Revenue is driven by both **mid-tier customer volume and high-value segments**, making retention and customer progression critical
+- A large **At-Risk segment** presents the **biggest short-term revenue recovery opportunity**
+- Customer movement trends indicate **declining engagement and increasing churn risk**
+- Growth opportunities lie in **developing existing customers and expanding into high-value international markets**
 
 ---
 
