@@ -128,7 +128,7 @@ Customer segmentation was performed using Recency, Frequency, and Monetary (RFM)
 ### Revenue Overview
 
 - **Total Revenue: $5.44M | 68,700 orders | AOV $79.23 | $559/customer**
-  - Revenue remained stable at ~$2.7M per year
+  - Revenue remained stable at ~$2.7M annually, indicating **stagnant growth**
 - **Q1 Weakest quarter**
   - February recorded the lowest monthly revenue
   - $160.6K in 2023, $172.1K in 2024
@@ -137,14 +137,14 @@ Customer segmentation was performed using Recency, Frequency, and Monetary (RFM)
   - Revenue averaged ~$217.8K per month
   - Order values showed a gradual decline outside peak seasons
 - **Q4 Peak season**
-  - Contributed ~32% of annual revenue
-  - Showed a clear holiday driven seasonal pattern
+  - Contributed ~32% of annual revenue, highlighting **heavy seasonal dependence**
+  - Showed a clear holiday driven seasonal pattern 
 
 ### Year-on-Year Highlights
 
 - **Q4 revenue growth**
   - Driven by larger order values, not more frequent purchases
-  - Reflects seasonal purchasing behaviour rather than higher customer activity
+  - Reflects **seasonal purchasing behaviour** rather than higher customer activity
 - **Q4 2024 declined slightly compared to Q4 2023**
   - A small decline pattern was observed across revenue, orders, and AOV
   - Minor individually, but collectively signals a mild slowdown in peak season performance
@@ -156,30 +156,30 @@ Customer segmentation was performed using Recency, Frequency, and Monetary (RFM)
 
 - **United States being the dominant market**
   -  Generated $2.1M in revenue
-  -  Indicates exposure to revenue concentration risk
+  -  Indicates exposure to **revenue concentration risk**
 - **Japan, United Kingdom, and France**
   - Recorded the highest revenue per customer, ranging from $585 to $588
-  - Smaller markets but consisted of higher-value customers despite lower total revenue
+  - Smaller markets but consisted of **higher-value customers** despite lower total revenue
 - **26–45: Working-age customers**
   - Contributed $3.24M in revenue
   - Age group with the greatest revenue impact
 - **Younger & Senior age customers**
   - 18–25: Highest AOV among top 3 groups at $80.10, showing strong spending intent among younger demographic
-  - 66–75: Highest AOV overall at $82.74, smallest customer base but highest spend per order
+  - 66–75: Highest AOV overall at $82.74, smallest customer base but **highest spend per order**
 - **Gender split in revenue**
   - Female $2.47M | Male $2.44M
-  - Revenue distribution between genders was nearly equal
+  - Revenue distribution between genders was **nearly equal**
   - Purchasing behaviour is not strongly influenced by gender
 
 ### Customer Tier Performance
 
 - **Regular and Premium customers**
   - Largest revenue base, generating $3.35M 
-  - Strongest opportunity for tier progression strategies
+  - Strongest **opportunity for tier progression** strategies
 - **VIP customers**
   - Smaller customer base but contributed $1.25M in revenue
   - Significantly higher customer value
-  - Should be prioritised for retention strategies
+  - Should be **prioritised for retention strategies**
 - **Budget and Occasional customers**
   - Contributed $837.5K in revenue
   - Lower revenue potential unless their purchasing behaviour changes
@@ -201,19 +201,19 @@ Each customer is scored from 1–5 across three dimensions:
 | Inactive | Low engagement across all dimensions | 1,420 | $119.6K | $84 | Low-touch |
 
 - **Customer movement**
-  - Showed a negative trend, with downgrades exceeding upgrades
+  - Showed a negative trend, with **downgrades exceeding upgrades**
   - Customers who declined into At Risk and Inactive segments: 2,197
   - Customers who upgraded into higher-value segments: 1,546
 - **At Risk customers**
-  - Generated nearly the same revenue per customer as Loyal customers ($517 vs $526)
+  - Generated nearly the **same revenue per customer as Loyal customers** ($517 vs $526)
   - Had not purchased recently (~194 days since last purchase)
-  - The most important segment for re-engagement due to their high remaining customer value
+  - The most **important segment for re-engagement** due to their high remaining customer value
 - **Champion customers**
   - Generated $2.17M in revenue and averaged 13 orders per customer
-  - The most valuable segment and critical to retain
+  - The most valuable segment and **critical to retain**
 - **Potential Loyalists and Promising customers**
   - Showed early engagement but lower spending
-  - Present an opportunity to upgrade them into higher-value customers
+  - Present an **opportunity to upgrade them** into higher-value customers
 
 ---
 
